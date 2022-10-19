@@ -1,1 +1,1 @@
-# Practicas-UI-UX
+# Practicas UI/UX
